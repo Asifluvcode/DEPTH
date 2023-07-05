@@ -1,0 +1,136 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.background-bg{
+    background-color:#131921;
+    background-color:#ffc118;
+}
+
+
+.top-nav{
+    color: #fff;
+    background-color:#131921;
+}
+
+.navbar-dark .nav-item .nav-link {
+    color: #fff;
+  }
+
+.navbar-dark .nav-item .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-dark .nav-item .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+    border-radius: 0.25rem;
+    color: #9b8de3;
+  }
+  
+  .fa-li {
+    position: relative;
+    left: 0;
+  }
+
+  .move-left {
+    margin-left: 250px;
+  }
+ 
+  .h6 {
+    color: #fff;
+  }
+
+  .bg-purple {
+    background-color: rgba(110, 108, 156, 0.7);
+  }
+
+  .text-purple {
+    color: rgb(200, 81, 200);
+  }
+
+.navbar-brand{
+        font-family: 'Rowdies', cursive;
+        font-size: 2em;
+        font-weight:bold;
+        color: #fff;
+        padding-right: 30px;
+}
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+  }
+
+.custom-nav .custom-nav-item a{
+    color: rgb(255, 255, 255);
+}
+
+.navbar-collapse{
+    padding: 12px;
+}
+
+.custom-nav-item:hover{
+    background-color: aqua;
+    border: solid aqua 1px;
+    border-radius: 15px;
+}
+
+
+.footer .footer-content{
+    border: 1px;
+    height: 350px;
+    display: flex;
+}
+
+.footer .footer-content .footer-section{
+    flex: 1;
+    border: 1px;
+    padding: 25px;
+}
+
+
+.custom-link .custom-link-item a{
+    color: white;
+    font-weight: bold;
+    text-decoration: white;
+}
+
+.jumbotron{
+    border-radius: 10px;
+    background-color: #e8fcf1; 
+    color: #070606;
+    margin-top: 70px;
+}
+
+
+
+@media screen and (min-width:0px) and (max-width: 700px){
+    .my-content,.txt-banner,.strip{
+       display: none;
+    }
+
+
+    .vid-content{
+        top: 18%;
+        left: 40%;
+    }
+
+    .custom-nav .custom-nav-item a{
+        padding: 10px 0px;
+        
+    }
+
+    .custom-nav-item:hover{
+        background-color: none;
+        border: none;
+        border-radius: none;
+    }
+}
+
+
+/* Popular couses on the index page */
+
+
+
+
+

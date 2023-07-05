@@ -1,0 +1,37 @@
+<section style="background-color: #131921; padding-top: 60px;">
+<div class="container">
+<div class="intro text-white">
+      <h2 class="text-center" style="font-weight: bold; font-size: 50px;">Most Popular Courses </h2>
+      <p class="text-center mb-5">Choose the best of courses from specialist specialized People </p>
+</div>
+   <ul class="cards" style="margin: 0;">
+    <?php 
+         $sql = "SELECT * FROM course";
+         $result = $conn->query($sql);
+         if($result->num_rows > 0){
+               while($row = $result->fetch_assoc()){
+                  $course_id = $row['course_id'];
+
+                     echo '<li class="card text-light">
+                           <div>
+                           <img src="' . str_replace('..', '.', $row['course_img']). '" alt="Course Image" class="card-img-top" style="object-fit: cover; height: 300px;  border-radius: 25px; padding: 5px; margin-top: -40px;">
+                           <div class="card-body text-center mx-auto">
+                           <div class="card-content" style="margin: 30px">
+                           <h5 class="card-title font-weight-bold">' .$row['course_name']. '</h5>
+                           <p class="card-text"><small><del>&#8377;' .$row['course_original_price']. '</del></small></p>
+                           <p class="card-text"><b>&#8377;' .$row['course_price']. '</b></p>
+                           
+                           <a href="coursedetail.php?course_id='.$course_id.'"  class="btn btn-light text-dark font-weight-bolder"">Enroll</a>
+                              </div>
+                           </div>
+                           </div>
+                           
+                     </li>';
+
+               }
+            }
+               ?>
+               
+    </ul>
+</div>
+</section>
