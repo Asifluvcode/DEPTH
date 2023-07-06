@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='https://www.flaticon.com/free-icon/e-learning_2866935'/></div>
+<div align='center'><img style="width:30%" src='elearn.png'/></div>
 
 <h2>About the project</h2>
 
@@ -16,6 +16,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='depth.webp'/>
+<img src='depth.jpeg'/>
 
 </div>
