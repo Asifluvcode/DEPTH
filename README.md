@@ -5,7 +5,7 @@
 
   <p>A <b>DEPTH </b>website(Distributive Educational Platform Transformative Hybrid) is an online E-Learning platform that allows users to Learn, purchase and post coursrs according to their choices.</p>
 
-👉 Live Demo: <a href='https://depth-e-learn.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://depth-e-learn.vercel.app/'>DEPTH</a>
 
 <h3>Build with:</h3>
 
