@@ -16,6 +16,6 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='depth.jpeg'/>
+<img src='https://github.com/Asifluvcode/Depth/assets/129084503/56a24922-84f6-4af0-abb7-aa6d23cfca38'/>
 
 </div>
