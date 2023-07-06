@@ -13,6 +13,7 @@
 » SCSS</br>
 » PHP</br>
 » MySql</br>
+» JavaScript</br>
 » HTML/CSS
 
 
