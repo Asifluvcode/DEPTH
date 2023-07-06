@@ -1,6 +1,4 @@
-<div align='center'><img style="width:30%" src='![2866935](https://github.com/Asifluvcode/Depth/assets/129084503/06a11395-b2f6-4459-9830-8f9e1795f77d)
-
-'/></div>
+<div align='center'><img style="width:30%" src='![2866935](https://github.com/Asifluvcode/Depth/assets/129084503/06a11395-b2f6-4459-9830-8f9e1795f77d)'/></div>
 
 <h2>About the project</h2>
 
