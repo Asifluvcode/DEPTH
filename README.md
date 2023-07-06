@@ -3,7 +3,7 @@
 
 <h2>About the project</h2>
 
-  <p>A <b>DEPTH </b>website(Distributive Educational Platform Transformative Hybrid) is an online platform that allows users to Learn, purchase and post coursrs according to their choices.</p>
+  <p>A <b>DEPTH </b>website(Distributive Educational Platform Transformative Hybrid) is an online E-Learning platform that allows users to Learn, purchase and post coursrs according to their choices.</p>
 
 👉 Live Demo: <a href='https://alisprofile.github.io/Depth/'>Live Demo</a>
 
