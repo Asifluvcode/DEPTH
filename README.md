@@ -1,4 +1,5 @@
-<div align='center'><img style="width:30%" src='elearn.png'/></div>
+<div align='center'><img style="width:30%" src='![elearn](https://github.com/Asifluvcode/Depth/assets/129084503/ba634637-279f-4e8d-ae26-b591c7685a92)
+'/></div>
 
 <h2>About the project</h2>
 
