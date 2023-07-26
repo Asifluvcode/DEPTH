@@ -3,31 +3,18 @@
 include('./dbconnection.php');
 include('./maininclude/header.php');
 ?>
-<!-- End Including Header -->
-
-
-<!-- Start course page banner -->
-
-<!-- <div class="container-fluid bg-dark" >
-    <div class="row">
-        <img src="" alt=""
-        style="height:100px; width:1600px; object-fit:cover; box-shadow:10px;"/>
-    </div>
-</div> -->
-
-
 
 
 <div class="d-flex align-items-center justify-content-center text-center text-light" style="height: 360px; background-color: #131921;">
-<div class="row">
-<div class="col-12">
-<div class=" p-4 p-sm-5 rounded-5">
-<h1>Featured Courses!</h1>
-<div class="text-light"><p>The Folowing Courses Displaying are the Top selling Courses this Month</p>
-</div>
-</div>
-</div>
-</div>
+    <div class="row">
+        <div class="col-12">
+            <div class=" p-4 p-sm-5 rounded-5">
+                <h1>Featured Courses!</h1>
+                    <div class="text-light"><p>The Folowing Courses Displaying are the Top selling Courses this Month</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <section class="chords-cards">
